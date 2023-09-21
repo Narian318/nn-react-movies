@@ -1,0 +1,10 @@
+.movies-section{
+    margin: auto;
+    padding: 20px;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: space-evenly;
+    width: 1500px;
+    height: 80vh;
+    border-radius: 20px;
+}

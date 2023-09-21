@@ -1,0 +1,17 @@
+.movie-card{
+    width: 180px;
+    height: 250px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px orange;
+    background-color: lightseagreen;
+}
+
+img{
+    max-width: 100%;
+    height: 95%;
+}
+
+body{
+    background-color: lightgoldenrodyellow;
+}
